@@ -16,7 +16,7 @@
 
 ###
 
-[![Language and tools](https://skillicons.dev/icons?i=go,php,python,java,angular,react,mysql,postgresql,redis,aws,docker,figma&theme=dark)](https://www.antonioeprado.dev/)
+[![Language and tools](https://skillicons.dev/icons?i=go,php,python,java,angular,react,mysql,postgresql,redis,mongodb,aws,docker,figma&theme=dark)](https://www.antonioeprado.dev/)
 
 ###
 
